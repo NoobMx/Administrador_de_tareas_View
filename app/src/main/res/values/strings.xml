@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Administrador de tareas</string>
+    <string name="lbl1_text">All tasks completed</string>
+    <string name="lbl2_text">Nice work!</string>
+</resources>
